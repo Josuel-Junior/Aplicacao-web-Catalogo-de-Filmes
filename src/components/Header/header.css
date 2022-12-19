@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 60px;
+    background-color: #363636;
+    position: sticky;
+    top: 0;
+    z-index: 1;}
+
+header a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+}
+
+
+.list-favorite {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
