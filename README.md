@@ -33,23 +33,23 @@ A aplicação mostra informações como sinopse avaliação e trailer do filme, 
 
 # Sobre a criação do projeto
 
-### AXIOS
+### Axios
 
 Consumo da API foi criado com a biblioteca AXIOS que permite fazer o consumo da API de forma simples.
 
-### REACT-ROUTER-DOM
+### React-router-dom
 
 Roteamento das páginas foi criado com react-router-dom que é a biblioteca padrão do react para roteamento de páginas.
 
-### USESTATE e USEEFFECT
+### Usestate e Useeffect
 
 Foi usado o useState que permite a criação de estado no componente através de função e o useEffect para acompanhar a atualização do componente
 
-### LOCALSTORAGE
+### Localstorage
 
 As informações sobre o filme salvo como favorito foi armazenado no localStorage  
 
-### TOASTIFY
+### Toastify
 
 Para as notificações do filme salvo como favorito foi utilizado a biblioteca Toastify
 
