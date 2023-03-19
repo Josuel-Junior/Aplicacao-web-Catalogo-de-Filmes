@@ -33,7 +33,7 @@ Para consumir a API utilizei a biblioteca AXIOS que nos permite fazer o consumo 
 
 ### React-router-dom
 
-O Roteamento das páginas foi criado com react-router-dom que é a biblioteca padrão do react para roteamento de páginas.
+O Roteamento das páginas foi criado com react-router-dom, que é a biblioteca padrão do react para roteamento de páginas.
 
 ### Usestate e Useeffect
 
