@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-https://josuel-junior.github.io/Site-catalogo-de-filmes/
+https://josuel-junior.github.io/Aplicacao-web-Catalogo-de-Filmes/
 
 Catálogo de filmes é uma aplicação WEB criada com React JS, a aplicação faz o consumo da API do The Movie DB que retorna os dados de filmes que estão em cartaz.
 
@@ -63,7 +63,7 @@ Para as notificações do filme salvo como favorito foi utilizado a biblioteca T
 
 
 # clonar repositório
-git clone https://github.com/Josuel-Junior/Site-catalogo-de-filmes/tree/master
+git clone https://github.com/Josuel-Junior/Aplicacao-web-Catalogo-de-Filmes/tree/master
 
 
 # Autor
