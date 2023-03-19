@@ -6,7 +6,7 @@ https://josuel-junior.github.io/Aplicacao-web-Catalogo-de-Filmes/
 
 Catálogo de filmes é uma aplicação WEB criada com React JS, a aplicação faz o consumo da API do The Movie DB que retorna os dados de filmes que estão em cartaz.
 
-A aplicação mostra informações como sinopse avaliação e trailer do filme, é possível ainda salvar o filme como favorito, para rever as informações depois.
+A aplicação mostra informações como sinopse, avaliação e trailer do filme, é possível ainda, salvar o filme como favorito para rever as informações depois.
 
 
 ## Layout web
