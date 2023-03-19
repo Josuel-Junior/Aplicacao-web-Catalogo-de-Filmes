@@ -11,17 +11,11 @@ A aplicação mostra informações como sinopse avaliação e trailer do filme, 
 
 ## Layout web
 ![Web 1](https://github.com/Josuel-Junior/projects-images/blob/master/image%20Catalogo-de-filmes/Layout%20desktop%20home.PNG?raw=true)
-![Web 2](https://github.com/Josuel-Junior/projects-images/blob/master/image%20Catalogo-de-filmes/Layout%20desktop%20detalhes.PNG?raw=true)
-![Web 3](https://github.com/Josuel-Junior/projects-images/blob/master/image%20Catalogo-de-filmes/Layout%20desktop%20favoritos.PNG?raw=true)
-
 
 
 ## Layout tablet
 ![Tablet 1](https://github.com/Josuel-Junior/projects-images/blob/master/image%20Catalogo-de-filmes/Layout%20tablet%20home.PNG?raw=true)
 
-![Tablet 2](https://github.com/Josuel-Junior/projects-images/blob/master/image%20Catalogo-de-filmes/layout%20tablet%20detalhes.PNG?raw=true)
-
-![Tablet 3](https://github.com/Josuel-Junior/projects-images/blob/master/image%20Catalogo-de-filmes/Layout%20tablet%20favoritos.PNG?raw=true)
 
 ## Layout mobile
 
